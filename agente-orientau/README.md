@@ -35,6 +35,7 @@ No se necesita API key para esta versión.
 
 ## Integrantes
 
-- (nombre)
-- (nombre)
-- (nombre)
+- (Andes Felipe Guzman Guzman)
+- (Juan Esteban Castañeda Hernandez)
+- (Danliel Alejandro Rodriguez Mosquera)
+- (Sara Eloisa Carvajal)

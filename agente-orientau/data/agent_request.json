@@ -1,0 +1,9 @@
+{
+  "question": "¿En qué se me fue el dinero este mes y cuánto puedo ahorrar?",
+  "user_id": "FINIA-2043",
+  "context": {
+    "account_id": "ACC-001",
+    "period": "2026-07",
+    "savings_goal": true
+  }
+}

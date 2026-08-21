@@ -1,0 +1,5 @@
+{
+  "answer": "Tus categorías con mayor gasto en julio fueron restaurantes, transporte y suscripciones. Superaste tu tope en restaurantes, así que preparé un borrador de transferencia a tu cuenta de ahorro.",
+  "sources": ["transacciones_2026-07", "presupuesto_usuario"],
+  "needs_approval": true
+}
